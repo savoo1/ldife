@@ -1,0 +1,66 @@
+@media (max-width: 991px) {
+  .slider .col-sm-2 {
+    display: none; }
+
+  .slider .col-md-8 {
+    display: block;
+    padding: 0;
+    border: 0;
+    width: 100%; }
+
+  .portfoliotext h1 {
+    text-align: center; }
+
+  .portfoliotext .crtica {
+    margin-left: auto;
+    margin-right: auto; }
+
+  .portfoliotext a {
+    display: none; }
+
+  .portfoliotext {
+    text-align: center; }
+    .portfoliotext h3 {
+      margin-bottom: 10px; }
+
+  .aboutproductfluid h1, .aboutproductfluid h2, .aboutproductfluid p, .aboutproductfluid h3, .aboutproductfluid .dugme, .yma h1
+  , .textshop p, .textshop h1 {
+    text-align: center; }
+
+  .aboutproductfluid h4 {
+    margin-bottom: 100px; }
+
+  .carauselproduct .hide-bullets {
+    display: none; }
+
+  .yma .col-md-2 {
+    margin-left: 0;
+    margin-right: 10px; }
+
+  .carauselproduct .slide .item {
+    height: auto; }
+
+  .shopproducts .row {
+    margin-bottom: 0; }
+
+  .shopproducts .product {
+    border-bottom: 0; }
+
+  .shopproducts .row:last-child .product:last-child {
+    border-bottom: 1px solid #cccccc; }
+
+  .textshop .crtica {
+    margin-left: auto;
+    margin-right: auto; } }
+@media (max-width: 768px) {
+  .footerfluid .footer p {
+    text-align: center; }
+
+  .footerfluid .footer .ccc {
+    text-align: center;
+    margin-top: 11px; }
+
+  .slider .kontrole {
+    display: none; } }
+
+/*# sourceMappingURL=responsive.css.map */
